@@ -1,7 +1,7 @@
 # Road-to-Elysee-2022-Analysis
 
 ## Description
-Analysis map of the referrals for the 2022 presidential elections.
+Analysis map of the referrals for the 2022 presidential elections.  
 Made with : Pytho, Folium, Pandas
 
 ## Available maps
