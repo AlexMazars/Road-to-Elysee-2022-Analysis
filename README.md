@@ -1,11 +1,11 @@
-# Analyse-Parrainages-Elysee-2022
+# Road-to-Elysee-2022-Analysis
 
 ## Description
-Carte d'analyse des parrainages pour la présidentielle 2022.
-Réalise avec : Pytho, Folium, Pandas
+Analysis map of the referrals for the 2022 presidential elections.
+Made with : Pytho, Folium, Pandas
 
-## Cartes disponibles
-| Carte | Lien |
+## Available maps
+| Map | Link |
 | ------ | ------ |
-| Parrainages par département | https://alexmazars.github.io/Analyse-Parrainages-Elysee-2022/Parrainages_dep.html |
-| Meilleur candidat par département | https://alexmazars.github.io/Analyse-Parrainages-Elysee-2022/Best_dep.html |
+| Referrals by department | https://alexmazars.github.io/Road-to-Elysee-2022-Analysis/Parrainages_dep.html |
+| Best candidate by department | https://alexmazars.github.io/Road-to-Elysee-2022-Analysis/Best_dep.html |
